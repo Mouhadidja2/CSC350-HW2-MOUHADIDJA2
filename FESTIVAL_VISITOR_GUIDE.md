@@ -9,26 +9,26 @@
 ## Repository Evidence
 
 - Current branch: [branch main]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Personal Homework 2 GitHub URL: [https://github.com/Mouhadidja2/CSC350-HW2-MOUHADIDJA2.git]
+- Starting `git status`: [On branch main Your branch is up to date with 'origin/main'.]
+- Starting preparation commit ID: [bd125dd]
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: [YouthTech]
+- Location: [Harlem, NYC]
+- Intended audience: [Undergraduate students]
+- Theme: [Innovation for social good.]
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   [The saved change currently lives in the working tree.]
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   [No, not yet.]
 
 ## Arrival Information
 
