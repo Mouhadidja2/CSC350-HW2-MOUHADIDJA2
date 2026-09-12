@@ -2,13 +2,13 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: [Kadidja Traore]
+- Course and section: [CSC350H F26]
+- Date: [09/12/2026]
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
+- Current branch: [branch main]
 - Personal Homework 2 GitHub URL: [Repository URL]
 - Starting `git status`: [Describe the result]
 - Starting preparation commit ID: [Short ID]
