@@ -32,17 +32,17 @@
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: [Take the 1, 2, or 3 train to 116 street]
+- Entrance or meeting location: [Meet in front of CVS pharmacy on 116th street and Lenox avenue]
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. [We have mobility assistance for those that are handicap, and wheelchair bound]
+2. [We have options for those with dietary restrictions such as vegetarian, halal, gluten, and diary free options]
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+[Remember to bring your student ID as this is a student only event]
 
 ## GitHub Verification
 
@@ -52,7 +52,7 @@
 
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
+| Personalized guide | [a59d537] | `docs: personalize festival visitor guide` |
 | Visitor access information | [ID] | `docs: add visitor access information` |
 | GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
