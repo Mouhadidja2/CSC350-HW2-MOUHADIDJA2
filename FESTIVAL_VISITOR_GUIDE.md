@@ -46,7 +46,7 @@
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+[Verified on GitHub by Kadidja Traore]
 
 ## Commit Evidence
 
