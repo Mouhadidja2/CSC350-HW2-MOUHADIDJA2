@@ -53,8 +53,8 @@
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
 | Personalized guide | [a59d537] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
+| Visitor access information | [a487ddf] | `docs: add visitor access information` |
+| GitHub verification | [0d4a54e] | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
